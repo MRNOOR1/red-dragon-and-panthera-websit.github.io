@@ -249,7 +249,7 @@ header {
 	background: #e55d87;
 	background: -moz-linear-gradient(-45deg, #e55d87 0%, #FFDF00 100%);
 	background: -webkit-linear-gradient(-45deg, #e55d87 0%, #FF0A0F 100%);
-	background-image: url(https://i.imgur.com/kueWrSm.jpeg);
+	background-image: url(./source/back.jpg);
     background-repeat: no-repeat;
     background-position: center;
 	position:: relative; 
